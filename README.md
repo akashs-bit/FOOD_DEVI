@@ -4,7 +4,6 @@ A full-stack **MERN Food Delivery Application** that allows users to browse meal
 
 ---
 
-## 🌐 Live Links
 🔗 Live Website: [https://food-devi-frontend-3kzm.onrender.com]
 ---
 
