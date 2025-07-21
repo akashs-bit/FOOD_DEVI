@@ -43,12 +43,6 @@ A full-stack **MERN Food Delivery Application** that allows users to browse meal
 
 ---
 
-## 📁 Project Structure
 
-FOOD_DELIVERY/
-├── frontend/ # React frontend
-├── backend/ # Express API server
-├── admin/ # Admin Panel (optional)
-└── README.md
 
 
