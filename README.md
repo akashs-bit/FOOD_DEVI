@@ -7,7 +7,6 @@ A full-stack **MERN Food Delivery Application** that allows users to browse meal
 ## 🌐 Live Links
 
 - 🔗 **Frontend**: [https://food-devi-frontend-3kzm.onrender.com]
-- 🔌 **Backend API**: [https://food-devi-backend.onrender.com]
 - 🛠️ **Admin Panel**: [https://food-devi-admin.onrender.com]
 
 > Replace with your actual deployed URLs
