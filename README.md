@@ -2,9 +2,10 @@
 
 A full-stack **MERN Food Delivery Application** that allows users to browse meals, add to cart, place orders, and manage them through an admin panel.
 
+## 🌐 Live Links
 ---
-
-🔗 Live Website: [https://food-devi-frontend-3kzm.onrender.com]
+- 🔗 **Frontend**: [https://food-devi-frontend-3kzm.onrender.com]
+- 🛠️ **Admin Panel**: [https://food-devi-admin.onrender.com]
 ---
 
 ## 🚀 Features
