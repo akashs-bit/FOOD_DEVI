@@ -15,8 +15,17 @@ const PORT = 3000 || process.env.PORT;
 
 //middleware
 app.use(express.json());
-app.use(cors());
 
+app.use(
+  cors({
+    origin: [
+      "https://food-devi-frontend-3kzm.onrender.com",
+      "https://food-devi-admin.onrender.com",
+    ],
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true,
+  })
+);
 app.get("/", (req, res) => {
   res.send("API Working");
 });
